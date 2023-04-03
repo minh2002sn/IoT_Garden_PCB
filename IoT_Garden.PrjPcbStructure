@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=SCH_01_Block_Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=SCH_01_Block_Diagram.SchDoc|FileName=SCH_02_Power_Diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=SCH_01_Block_Diagram.SchDoc|FileName=SCH_03_Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=SCH_01_Block_Diagram.SchDoc|FileName=SCH_04_MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=SCH_01_Block_Diagram.SchDoc|FileName=SCH_05_USB_To_TTL.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=SCH_01_Block_Diagram.SchDoc|FileName=SCH_06_Input.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=SCH_01_Block_Diagram.SchDoc|FileName=SCH_08_Output.SchDoc|SheetNumber=7
