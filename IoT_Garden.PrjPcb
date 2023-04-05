@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for IoT_Garden
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -166,7 +166,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HRPQVLRP
 
 [Document8]
-DocumentPath=SCH_08_Output.SchDoc
+DocumentPath=SCH_07_Output.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -794,8 +794,282 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document45]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document46]
+DocumentPath=Gerber.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for IoT_Garden\14-55_2023-04-05_BOM\BOM\Bill of Materials-IoT_Garden.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for IoT_Garden\Design Rule Check - PCB_IoT_Garden_1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for IoT_Garden\17-14_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for IoT_Garden\17-14_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for IoT_Garden\17-14_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for IoT_Garden\17-14_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for IoT_Garden\17-14_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\NC Drill\PCB_IoT_Garden_1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for IoT_Garden\17-14_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for IoT_Garden\17-14_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for IoT_Garden\17-22_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for IoT_Garden\17-41_2023-04-05_Gerber File\Gerber\PCB_IoT_Garden_1.0.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -807,6 +1081,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for IoT_Garden
 
 [OutputGroup1]
 Name=Netlist Outputs
