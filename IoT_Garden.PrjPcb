@@ -489,23 +489,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=..\..\Libraries\SnapEDA_Lib\CH340G.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document28]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\DS3231.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -522,7 +505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\ESP32-C3-MINI-1-N4.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -539,7 +522,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\ESP-32S.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -556,7 +539,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\LCD-20X4B.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -573,7 +556,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\MCP3204-CI_SL.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -590,7 +573,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\PC817X2NIP0F.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -607,7 +590,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\SN74HC245N.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -624,7 +607,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\STM32F103C8T6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -641,7 +624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\TEM-HUM-DHT11_4P-15.5X12.0MM_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -658,7 +641,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\ULN2803.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -675,7 +658,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\BK-18650-PC2\Project Outputs for BK-18650-PC2\BK-18650-PC2.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -692,7 +675,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=..\..\Libraries\PIF_Lab_Lib\Project Outputs for PIF_Library\PIF_Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -709,7 +692,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=..\..\Libraries\YenDoo_Lib\YenDoo.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -726,7 +709,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\BK-18650-PC4.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -743,7 +726,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=..\..\Libraries\SnapEDA_Lib\Button_4_Pin_SMD.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -760,8 +743,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=..\..\Libraries\Huy_Lib\Project Outputs for Huy_Lib\Huy_Lib.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document43]
+DocumentPath=..\..\Libraries\SnapEDA_Lib\CH340G\Project Outputs for CH340\CH340.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document44]
+DocumentPath=..\..\Libraries\SnapEDA_Lib\SMF05C\Project Outputs for SMF05C\SMF05C.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
